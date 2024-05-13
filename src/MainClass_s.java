@@ -34,7 +34,12 @@ public class MainClass_s {
 		
 		Car2_s car3 = new Car2_s("기아","K5","파랑");
 		
+		Test_s test = new Test_s();
+		int[] arrTest = {1,2,3,4,5};
+		test.sum1(arrTest);
+		test.sum2(car1);
 		
+	   
 		
 	}
 		
