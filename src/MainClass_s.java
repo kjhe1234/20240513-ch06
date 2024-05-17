@@ -39,6 +39,8 @@ public class MainClass_s {
 		test.sum1(arrTest);
 		test.sum2(car1);
 		
+		Worker_s work = new Worker_s();
+		
 	   
 		
 	}
